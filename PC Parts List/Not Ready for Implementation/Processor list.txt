@@ -1,0 +1,179 @@
+AMD Socket AM4
+AMD Athlon 200GE (Radeon Vega 3) 3.2Ghz Cache 4MB 35W Socket AM4 [BOX] - 2 Core 			Rp 765.000
+AMD Athlon 220GE (Radeon Vega 3) 3.4Ghz Cache 4MB 35W Socket AM4 [BOX] - 2 Core   			Rp 880.000
+AMD Athlon 240GE (Radeon Vega 3) 3.5Ghz Cache 4MB 35W Socket AM4 [BOX] - 2 Core   			Rp 1.050.000
+AMD Ryzen 3 1200 3.1Ghz Up To 3.4Ghz Cache 8MB 65W AM4 [Box] - 4 Core					Rp 1.209.000
+AMD Ryzen 3 Raven Ridge 2200G 3.5Ghz Up To 3.7Ghz Cache 4MB 65W AM4 [Box] - 4 Core			Rp 1.235.000
+AMD Ryzen 3 3200G 3.6Ghz Up To 4.0Ghz Cache 4MB 65W AM4 [Box] - 4 Core					Rp 1.465.000
+AMD Ryzen 5 Raven Ridge 2400G 3.6Ghz Up To 3.9Ghz Cache 4MB 65W AM4 [Box] - 4 Core			Rp 1.849.000
+AMD Ryzen 5 1600 3.2Ghz Up To 3.6Ghz Cache 16MB 65W AM4 [Box] - 6 Core					Rp 1.889.000
+AMD Ryzen 5 Pinnacle Ridge 2600 3.4Ghz Up To 3.9Ghz Cache 16MB 65W AM4 [Box] - 6 Core			Rp 2.010.000
+AMD Ryzen 5 3400G 3.7Ghz Up To 4.2Ghz Cache 4MB 65W AM4 [Box] - 4 Core 					Rp 2.269.000
+AMD Ryzen 5 Pinnacle Ridge 2600X 3.6Ghz Up To 4.2Ghz Cache 16MB 95W AM4 [Box] - 6 Core			Rp 2.709.000
+AMD Ryzen 5 3600 3.6Ghz Up To 4.2Ghz Cache 32MB 65W AM4 [Box] - 6 Core 					Rp 3.025.000
+AMD Ryzen 7 Pinnacle Ridge 2700 3.2Ghz Up To 4.1Ghz Cache 16MB 65W AM4 [Box] - 8 Core 			Rp 3.369.000
+AMD Ryzen 5 3600X 3.8Ghz Up To 4.4Ghz Cache 32MB 95W AM4 [Box] - 6 Core 				Rp 3.699.000
+AMD Ryzen 7 1700 3.0Ghz Up To 3.7Ghz Cache 16MB 65W AM4 [Box] - 8 Core 					Rp 3.745.000
+AMD Ryzen 7 Pinnacle Ridge 2700X 3.7Ghz Up To 4.3Ghz Cache 16MB 105W AM4 [Box] - 8 Core 		Rp 3.989.000
+AMD Ryzen 7 3700X 3.6Ghz Up To 4.4Ghz Cache 32MB 65W AM4 [Box] - 8 Core 				Rp 4.979.000
+AMD Ryzen 7 3800X 3.9Ghz Up To 4.5Ghz Cache 32MB 105W AM4 [Box] - 8 Core 				Rp 5.899.000
+AMD Ryzen 9 3900X 3.8Ghz Up To 4.6Ghz Cache 64MB 105W AM4 [Box] - 12 Core				Rp 7.829.000
+
+AMD Socket FM2
+AMD Richland A4-6300 (Radeon HD8370D) 3.7Ghz Cache 1MB 65W Socket FM2 					Rp 420.000
+
+AMD Socket FM2+
+AMD Godavari A6-7480 (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+ 				Rp 510.000
+AMD Carrizo A8-7680 (Radeon R7 Series) 3.5Ghz Cache 2MB 45W Socket FM2+					Rp 765.000
+AMD Godavari A6-7470K (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+				Rp 790.000
+
+AMD Socket TR4
+AMD Ryzen Threadripper 2920X 3.5Ghz Up To 4.3Ghz Cache 32MB 180W TR4 [Box] - 12 Core			Rp 6.150.000
+AMD Ryzen Threadripper 1950X 3.4Ghz Up To 4.0Ghz Cache 32MB 180W TR4 [Box] - 16 Core			Rp 8.610.000
+AMD Ryzen Threadripper 2950X 3.5Ghz Up To 4.4Ghz Cache 32MB 180W TR4 [Box] - 16 Core			Rp 11.725.000
+AMD Ryzen Threadripper 2970WX 3.0Ghz Up To 4.2Ghz Cache 64MB 180W TR4 [Box] - 24 Core			Rp 15.100.000
+AMD Ryzen Threadripper 2990WX 3.4Ghz Up To 4.0Ghz Cache 64MB 250W TR4 [Box] - 32 Core			Rp 27.500.000
+
+Intel Core 2 Duo Socket LGA 775
+Intel Core 2 Duo E6550 2.30Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775				Rp 80.000
+Intel Core 2 Duo E7500 2.93Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775				Rp 85.000
+Intel Core 2 Duo E6300 1.86Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775				Rp 87.000
+Intel Core 2 Duo E7600 3.06Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775				Rp 90.000
+Intel Core 2 Duo E8400 3.0Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775				Rp 90.000
+Intel Core 2 Duo E6400 1.96Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775				Rp 90.000
+Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775				Rp 100.000
+
+Intel Pentium Socket LGA 1155
+Intel Pentium G645 2.9Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 110.000
+Intel Pentium G640 2.8Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 110.000
+Intel Pentium G1620 2.7Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 140.000
+Intel Pentium G840 2.8Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 190.000
+Intel Pentium G2020 2.9Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 225.000
+Intel Pentium G2030 3.0Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 230.000
+
+Intel Core i3 Socket LGA 1150
+Intel Core i3-4130 3.4Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Series				Rp 740.000
+Intel Core i3-4150 3.5Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 750.000
+Intel Core i3-4160 3.6Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 780.000
+Intel Core i3-4170 3.7Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 860.000
+
+Intel Core i3 Socket LGA 1151
+Intel Core i3-6100 3.7Ghz - Cache 3MB [Tray] Socket LGA 1151 - Skylake Series				Rp 1.510.000
+Intel Core i3-7100 3.9Ghz - Cache 3MB [Tray] Socket LGA 1151 - Kabylake Series				Rp 1.649.000
+Intel Core i3-6100 3.7Ghz - Cache 3MB [Box] Socket LGA 1151 - Skylake Series				Rp 1.810.000
+Intel Core i3-7100 3.9Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series				Rp 1.879.000
+
+Intel Core i3 Socket LGA 1151V2
+Intel Core i3-9100F 3.6Ghz Up To 4.2Ghz - Cache 6MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 1.199.000
+Intel Core i3-8100 3.6Ghz - Cache 6MB [Box] Socket LGA 1151V2 - Coffeelake Series			Rp 1.999.000
+Intel Core i3-8350K 4.0Ghz - Cache 8MB [Box] Socket LGA 1151V2 - Coffeelake Series			Rp 2.610.000
+
+Intel Core i3 Socket LGA 1155
+Intel Core i3-2100 3.1Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 290.000
+Intel Core i3-2120 3.3Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 310.000
+Intel Core i3-2130 3.4Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 390.000
+Intel Core i3-3220 3.3Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 430.000
+Intel Core i3-3240 3.4Ghz Cache 3MB[Tray] Socket LGA 1155						Rp 460.000
+Intel Core i3-3245 3.4Ghz Cache 3MB[Tray] Socket LGA 1155						Rp 460.000
+Intel Core i3 3250 3.5Ghz Cache 3MB [Tray] Socket LGA 1155						Rp 575.000
+Intel Core i3 3250 3.5Ghz Cache 3MB [Box] Socket LGA 1155						Rp 1.040.000
+
+Intel Core i5 Socket LGA 1150
+Intel Core i5-4570 3.2Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 1.060.000
+Intel Core i5-4670 3.4Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 1.115.000
+Intel Core i5-4460 3.2Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 1.120.000
+Intel Core i5-4590 3.3Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 1.160.000
+Intel Core i5-4690 3.5Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 1.160.000
+Intel Core i5-4460 3.2Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Refresh Series			Rp 2.660.000
+
+Intel Core i5 Socket LGA 1151
+Intel Core i5-6400 2.7Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series				Rp 1.960.000
+Intel Core i5-6500 3.2Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series				Rp 2.010.000
+Intel Core i5-6600 3.3Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series				Rp 2.110.000
+Intel Core i5-7400 3.0Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series				Rp 2.660.000
+Intel Core i5-7500 3.4Ghz - Cache 6MB [Tray] Socket LGA 1151 - Kabylake Series				Rp 2.670.000
+Intel Core i5-7500 3.4Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series				Rp 3.090.000
+Intel Core i5-7600K 3.8Ghz Up To 4.2Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series		Rp 3.235.000
+Intel Core i5-7600 3.5Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series				Rp 3.295.000
+
+Intel Core i5 Socket LGA 1151V2
+Intel Core i5-9400F 2.9Ghz Up To 4.1Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 2.199.000
+Intel Core i5-8400 2.8Ghz Up To 4.0Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 2.679.000
+Intel Core i5-9400 2.9Ghz Up To 4.1Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 2.829.000
+Intel Core i5-9500 3.0Ghz Up To 4.4Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 3.079.000
+Intel Core i5-8500 3.0Ghz Up To 4.1Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 3.220.000
+Intel Core i5-8600 3.1Ghz Up To 4.3Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 3.470.000
+Intel Core i5-9600KF 3.7Ghz Up To 4.6Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 3.499.000
+Intel Core i5-9600 3.1Ghz Up To 4.6Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 3.515.000
+Intel Core i5-9600K 3.7Ghz Up To 4.6Ghz - Cache 9MB [Box] Socket LGA 1151V2- Coffeelake Series		Rp 3.515.000
+Intel Core i5-8600K 3.6Ghz Up To 4.3Ghz - Cache 9MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 3.980.000
+
+Intel Core i5 Socket LGA 1155
+Intel Core i5-2400 3.1 GHz - Cache 6MB [Tray] Socket LGA 1155						Rp 485.000
+Intel Core i5-2500 3.3 GHz - Cache 6MB [Tray] Socket LGA 1155						Rp 500.000
+Intel Core i5-3470 3.2Ghz Cache 6MB [Tray] Socket LGA 1155						Rp 560.000
+Intel Core i5-3570 3.4Ghz Cache 6MB [Tray] Socket LGA 1155						Rp 610.000
+
+Intel Core i5 Socket LGA 2066
+Intel Core i5-7640X 4.0Ghz Up To 4.2Ghz - Cache 6MB [Box] Socket LGA 2066 - Kabylake-X Series		Rp 3.915.000
+
+Intel Core i7 Socket LGA 1150
+Intel Core i7-4770 3.4Ghz - Cache 8MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 2.210.000
+Intel Core i7-4790 3.6Ghz - Cache 8MB [Tray] Socket LGA 1150 - Haswell Refresh Series			Rp 2.260.000
+
+Intel Core i7 Socket LGA 1151
+Intel Core i7-7700 3.6Ghz - Cache 8MB [Box] Socket LGA 1151 - Kabylake Series				Rp 4.230.000
+Intel Core i7-7700K 4.2Ghz Up To 4.5Ghz - Cache 8MB [Box] Socket LGA 1151 - Kabylake Series		Rp 5.200.000
+
+Intel Core i7 Socket LGA 1151V2
+Intel Core i7-9700F 3.0Ghz Up To 4.7Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 4.849.000
+Intel Core i7-8700 3.2Ghz Up To 4.6Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 5.000.000
+Intel Core i7-9700 3.0Ghz Up To 4.7Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series		Rp 5.189.000
+Intel Core i7-8700K 3.7Ghz Up To 4.7Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 5.589.000
+Intel Core i7-9700KF 3.6Ghz Up To 4.9Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 5.849.000
+Intel Core i7-9700K 3.6Ghz Up To 4.9Ghz - Cache 12MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 5.899.000
+
+Intel Core i7 Socket LGA 1155
+Intel Core i7-2600 3.4 GHz - Cache 8MB [Tray] Socket LGA 1155						Rp 1.210.000
+
+Intel Core i7 Socket LGA 2066
+Intel Core i7-7740X 4.3Ghz Up To 4.5Ghz - Cache 8MB [Box] Socket LGA 2066 - Kabylake-X Series		Rp 5.450.000
+Intel Core i7-7800X 3.5Ghz Up To 4.0Ghz - Cache 8.25MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 6.050.000
+Intel Core i7-9800X 3.8Ghz Up To 4.4Ghz - Cache 16.5MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 9.300.000
+Intel Core i7-7820X 3.6Ghz Up To 4.3Ghz - Cache 11MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 9.600.000
+
+Intel Core i9 Socket LGA 1151V2
+Intel Core i9-9900KF 3.6Ghz Up To 5.0Ghz - Cache 16MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 7.399.000
+Intel Core i9-9900K 3.6Ghz Up To 5.0Ghz - Cache 16MB [Box] Socket LGA 1151V2 - Coffeelake Series	Rp 7.999.000
+
+Intel Core i9 Socket LGA 2066
+Intel Core i9-9820X 3.3Ghz Up To 4.1Ghz - Cache 16.5MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 13.100.000
+Intel Core i9-9900X 3.5Ghz Up To 4.4Ghz - Cache 19.25MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 14.700.000
+Intel Core i9-7900X 3.3Ghz Up To 4.3Ghz - Cache 13.75MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 15.900.000
+Intel Core i9-7920X 2.9Ghz Up To 4.3Ghz - Cache 16.5MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 16.900.000
+Intel Core i9-7940X 3.1Ghz Up To 4.3Ghz - Cache 19.25MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 19.150.000
+Intel Core i9-9920X 3.5Ghz Up To 4.4Ghz - Cache 19.25MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 19.600.000
+Intel Core i9-9940X 3.3Ghz Up To 4.4Ghz - Cache 19.25MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 22.650.000
+Intel Core i9-7960X 2.8Ghz Up To 4.2Ghz - Cache 22MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 23.900.000
+Intel Core i9-9960X 3.1Ghz Up To 4.4Ghz - Cache 22MB [Box] Socket LGA 2066 - Skylake-X Series		Rp 25.650.000
+Intel Core i9-9980XE 3.0Ghz Up To 4.4Ghz - Cache 24.75MB [Box] Socket LGA 2066 - Skylake-X Series	Rp 29.850.000
+
+Intel Xeon LGA1151
+Intel Xeon E3-1220V6, 3.0Ghz, Cache 8MB, LGA1151							Rp 3.240.000
+Intel Xeon E3-1225V6, 3.3Ghz, Cache 8MB, LGA1151							Rp 3.596.000
+Intel Xeon E3-1230V6, 3.5Ghz, Cache 8MB, LGA1151							Rp 4.150.000
+Intel Xeon E3-1240V6, 3.5Ghz, Cache 8MB, LGA1151							Rp 4.533.000
+Intel Xeon E3-1245V6, 3.7Ghz, Cache 8MB, LGA1151							Rp 4.685.000
+
+Intel Xeon LGA2011
+Intel Xeon E5-2603v4, 1.7Ghz, Cache 15MB, LGA2011-v3							Rp 3.510.000
+Intel Xeon E5-2609v4, 1.7Ghz, Cache 20MB, LGA2011-v3							Rp 5.000.000
+Intel Xeon E5-2620v4, 2.4Ghz, Cache 15MB, LGA2011-v3							Rp 6.790.000
+Intel Xeon E5-2630v4, 2.4Ghz, Cache 20MB, LGA2011-v3							Rp 10.780.000
+
+Intel Xeon LGA3648
+Intel Xeon BRONZE 3104, 1.70Ghz, Cache 8.25 MB, LGA 3647						Rp 3.670.000
+Intel Xeon BRONZE 3106, 1.70Ghz, Cache 11MB, LGA 3647							Rp 5.190.000
+Intel Xeon SILVER 4108, 1.80Ghz Up To 3.0Ghz, Cache 11MB, LGA 3647					Rp 7.000.000
+Intel Xeon SILVER 4110, 2.10Ghz Up To 3.0Ghz, Cache 11MB, LGA 3647					Rp 8.370.000
+Intel Xeon SILVER 4116, 2.10Ghz Up To 3.0Ghz, Cache 16.5MB, LGA 3647					Rp 16.550.000

@@ -1,0 +1,589 @@
+AMD AM4
+
+ASRock
+ASRock A320M-HDV (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)								Rp 695.000
+ASRock X370M-HDV (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 955.000
+ASRock B450M-HDV (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.040.000
+ASRock X370M-Pro4 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 1.045.000
+ASRock X370 Pro4 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 1.235.000
+ASRock B450 Pro 4 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.300.000
+ASRock B450M Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 1.529.000
+ASRock Fatal1ty X370 Gaming X (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 1.710.000
+ASRock B450 Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 1.769.000
+ASRock B450 Gaming-ITX (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 2.235.000
+ASRock X470 Master SLI (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)								Rp 2.410.000
+ASRock Fatal1ty X370 Gaming ITX (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 2.760.000
+ASRock X570 Phantom Gaming 4 (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)							Rp 2.766.000
+ASRock Fatal1ty X470 Gaming K4 (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 2.820.000
+ASRock X470 Gaming-ITX/ac (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 3.095.000
+ASRock X570 Steel Legend (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 3.689.000
+ASRock X470 Taichi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)								Rp 3.745.000
+ASRock Fatal1ty X370 Professional Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)					Rp 4.079.000
+ASRock X570 Taichi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)									Rp 5.300.000
+
+Asus
+Asus PRIME A320M-F (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)								Rp 735.000
+Asus PRIME A320M-K (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)								Rp 830.000
+Asus PRIME B350M-K (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)								Rp 1.210.000
+Asus EX-A320M-Gaming (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)								Rp 1.260.000
+Asus PRIME B450M-K (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.380.000
+Asus TUF B350M-PLUS Gaming (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)							Rp 1.610.000
+Asus PRIME B450-PLUS (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.610.000
+Asus TUF B450M-PLUS Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 1.720.000
+Asus ROG STRIX B350-F Gaming (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)							Rp 1.810.000
+Asus PRIME B350-PLUS (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)								Rp 1.860.000
+Asus PRIME X370-Pro (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 1.910.000
+Asus TUF B450-PLUS Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 2.120.000
+Asus ROG STRIX B450-F Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 2.470.000
+Asus ROG STRIX X370-F Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 2.750.000
+Asus TUF X470-PLUS Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 2.875.000
+Asus ROG STRIX X370-I Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 2.995.000
+Asus ROG STRIX B450-I Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 3.070.000
+Asus ROG STRIX B450-E Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 3.100.000
+Asus ROG CROSSHAIR VI Hero (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 3.130.000
+Asus PRIME X470-Pro (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)								Rp 3.275.000
+Asus PRIME X570-P (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)									Rp 3.720.000
+Asus ROG CROSSHAIR VI Extreme (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)							Rp 3.750.000
+Asus TUF GAMING X570-PLUS (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 3.950.000
+Asus ROG STRIX X470-I Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 3.975.000
+Asus ROG STRIX X470-F Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 4.025.000
+Asus ROG CROSSHAIR VII Hero (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 5.350.000
+Asus ROG CROSSHAIR VII Hero (WI-FI) (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)						Rp 5.700.000
+Asus ROG STRIX X570-E Gaming (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)							Rp 6.620.000
+Asus ROG CROSSHAIR VIII Hero (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)							Rp 7.500.000
+Asus ROG CROSSHAIR VIII Hero (WI-FI) (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)						Rp 7.850.000
+
+Biostar
+Biostar A320MH (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)									Rp 672.000
+Biostar A320MH PRO (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)								Rp 701.000
+Biostar B45M2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)									Rp 874.000
+Biostar B450MHC (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)									Rp 989.000
+Biostar B350ET2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)									Rp 1.004.000
+Biostar TB350-BTC (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)								Rp 1.032.000
+Biostar X470MH (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)									Rp 1.076.000
+Biostar Racing B450GT3 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.162.000
+Biostar TB350-BTC (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3) - Bundled Riser 6Pcs						Rp 1.306.000
+Biostar B350GT5 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)									Rp 1.349.000
+Biostar X470GTQ (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)									Rp 1.364.000
+Biostar X370GT3 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)									Rp 1.594.000
+Biostar X370GT5 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)									Rp 1.882.000
+Biostar X370GT7 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)									Rp 2.433.000
+Biostar Racing X470GT8 (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)								Rp 2.966.000
+
+ECS
+ECS A320AM4-M3 (AM4, AMD Promontory A320, DDR4, SATA3)										Rp 750.000
+ECS B350AM4-M2 (AM4, AMD Promontory B350, DDR4, USB3.0, SATA3)									Rp 1.035.000
+
+Gigabyte
+Gigabyte GA-A320M-S2H (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)								Rp 805.000
+Gigabyte GA-A320M-S2H-V2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)							Rp 849.000
+Gigabyte B450M S2H (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.149.000
+Gigabyte B450M DS3H (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.320.000
+Gigabyte B450M Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.345.000
+Gigabyte B450 Aorus M (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.665.000
+Gigabyte B450 Aorus Elite (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 1.949.000
+Gigabyte B450 Aorus Pro (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 2.210.000
+Gigabyte B450 Aorus Pro Wifi (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 2.320.000
+Gigabyte B450 I Aorus Pro Wifi (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)							Rp 2.370.000
+Gigabyte X470 Aorus Gaming 5 Wifi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)						Rp 2.993.000
+Gigabyte X470 Aorus Ultra Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)						Rp 2.998.000
+Gigabyte X570 UD (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)									Rp 3.310.000
+Gigabyte X470 Aorus Gaming 7 Wifi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)						Rp 3.875.000
+Gigabyte X570 Aorus Elite (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 3.899.000
+Gigabyte X570 I Aorus Pro Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)							Rp 4.315.000
+Gigabyte X570 Aorus Ultra (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 5.620.000
+Gigabyte X570 Aorus Master (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 6.880.000
+Gigabyte X570 Aorus Xtreme (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 11.720.000
+
+MAXSUN
+MAXSUN MS-A320M Challenger Series (AM4, A320, DDR4, USB3, VGA+DVI+HDMI, M.2, Gigabit 1000 Mbps Gaming Network card)		Rp 735.000
+MAXSUN MS-A320D4 Turbo (AM4, A320, DDR4, M.2, USB 3.1, VGA+DVI+HDMI, Gigabit LAN)						Rp 750.000
+MAXSUN MS-B350D4 Turbo (AM4, B350, DDR4, Slot M.2, USB 3.1, Hi-Fi Audio)							Rp 970.000
+MAXSUN MS-Challenger B350M (AM4 Raven Ridge, B350, DDR4, Slot M.2, VGA+DVI+HDMI, Gigabit)					Rp 1.050.000
+MAXSUN MS-B350FX Gaming Pro (AM4, B350, DDR4, 3 Slot VGA PCI-E , 2 Slot M.2, USB 3.1, Hi-Fi Audio)				Rp 1.180.000
+
+MSI
+MSI A320M Pro VD/S (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)								Rp 737.000
+MSI A320M Pro M2 (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)								Rp 785.000
+MSI B450M Pro-M2 V2 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.079.000
+MSI B450M Pro VDH Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.225.000
+MSI B450M Pro VDH MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)								Rp 1.249.000
+MSI B450M Gaming Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.339.000
+MSI B450-A Pro MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)								Rp 1.539.000
+MSI B450M Bazooka Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)								Rp 1.629.000
+MSI B450 Gaming Plus MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)							Rp 1.709.000
+MSI X370 Gaming Plus (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 1.749.000
+MSI X370 Krait Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)								Rp 1.799.000
+MSI B450M Mortar MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)								Rp 1.829.000
+MSI B450 Tomahawk MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)								Rp 1.889.000
+MSI X470 Gaming Plus (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)								Rp 2.369.000
+MSI X470 Gaming Pro (AM4, AMD Promontory X470, DDR4, USB 3.1, SATA3)								Rp 2.619.000
+MSI X570-A Pro (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)									Rp 2.819.000
+MSI MPG X570 Gaming Plus (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 3.169.000
+MSI X470 Gaming Pro Carbon (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)							Rp 3.249.000
+MSI MPG X570 Gaming Edge Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)							Rp 3.669.000
+MSI MPG X570 Gaming Pro Carbon Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)						Rp 4.649.000
+MSI MEG X570 ACE (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)									Rp 6.349.000
+MSI Prestige X570 Creation (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 8.199.000
+MSI MEG X570 Godlike (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)								Rp 12.449.000
+
+
+AMD FM2/FM2+
+
+ASROCK
+ASRock FM2A68M-DG3+ (FM2+, AMD A68H, DDR3)											Rp 605.000
+ASRock FM2A68M-HD+ (FM2+, AMD A68H, DDR3)											Rp 700.000
+
+ASUS
+Asus A68HM-K (FM2+, A68, DDR3)													Rp 660.000
+
+Biostar
+Biostar A68MDE (FM2+, A68, DDR3)												Rp 586.000
+Biostar HI-FI A68U3P (FM2+, AMD A68H, DDR3)											Rp 644.000
+Biostar Hi-Fi A70U3P (FM2+, AMD A70M, DDR3, SATA3, USB3)									Rp 672.000
+
+Colorful
+Colorful C.A68M-P Plus V16 (FM2/FM2+, A68, DDR3, VGA, HDMI)									Rp 570.000
+Colorful Battle AXE C.A88MK V14 (FM2/FM2+, A88, DDR3, VGA, DVI, HDMI)								Rp 750.000
+
+ECS
+ECS A68F2P-M4 (FM2+, A68, DDR3)													Rp 650.000
+ECS A68F2P-M2 (FM2+, A68, DDR3)													Rp 695.000
+
+Gigabyte
+Gigabyte GA-F2A68HM-DS2 (AMD A68, 2xDDR3, VGA, 2PCI-E)										Rp 735.000
+
+MAXSUN
+MAXSUN MS-A88FE Turbo M.2 (FM2+, A85, DDR3, VGA+DVI)										Rp 580.000
+MAXSUN MS-A68GL+ M.2 (FM2+, A68, DDR3, VGA+DVI)											Rp 580.000
+MAXSUN MS-A88 Gaming PRO (FM2+, A88, DDR3, VGA+DVI+HDMI)									Rp 850.000
+
+MSI
+MSI A68HM-E33 V2 (FM2+, AMD A68, DDR3, USB3)											Rp 689.000
+
+
+AMD TR4
+
+ASRock
+ASRock X399 Phantom Gaming 6 (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)							Rp 4.449.000
+ASRock X399 Taichi (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)								Rp 5.589.000
+
+Asus
+Asus PRIME X399-A (TR4, AMD Promontory X399, DDR4, USB3.1, SATA3)								Rp 5.050.000
+Asus ROG STRIX X399-E Gaming (TR4, AMD Promontory X399, DDR4, USB3.1, SATA3)							Rp 5.450.000
+Asus ROG Zenith Extreme (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)								Rp 8.750.000
+Asus ROG Zenith Extreme Alpha (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)							Rp 10.300.000
+
+Gigabyte
+Gigabyte X399 Aorus Pro (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)								Rp 4.338.000
+Gigabyte X399 Designare EX (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)							Rp 5.999.000
+Gigabyte X399 Aorus Xtreme (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)							Rp 6.995.000
+
+MSI
+MSI X399 SLI Plus (TR4, AMD Promontory X399, DDR4, USB3.1, SATA3)								Rp 5.399.000
+
+
+Intel LGA775
+
+AFOX
+AFOX Intel G41 (LGA775, Intel G41, DDR3)											Rp 495.000
+
+CARDEX
+CARDEX LGA775 G41 (PCIe16x,ddr3,vga.sc.lan)											Rp 415.000
+
+Digital Alliance
+Digital Alliance IG41-MA6 (LGA775, Intel G41, DDR3)										Rp 575.000
+
+VenomRX
+VenomRX Intel G41 (LGA775, Intel G41, DDR3)											Rp 445.000
+
+Xtreme
+Xtreme G41 (LGA775, G41, DDR3)													Rp 405.000
+
+
+Intel LGA1150
+
+ASRock
+ASRock B95M-DGS (LGA1150, B85, DDR3)												Rp 690.000
+ASRock H81M-VG4 (LGA1150, H81, DDR3)												Rp 715.000
+ASRock H81-Pro BTC (LGA1150, H81, DDR3)												Rp 810.000
+
+Asus
+Asus H81M-V Plus (LGA1150, Intel H81, DDR3)											Rp 785.000
+Asus H81M-K (LGA1150, Intel H81, DDR3)												Rp 815.000
+Asus H81M-E (LGA1150, Intel H81, DDR3)												Rp 820.000
+Asus H81M-A (LGA1150, Intel H81, DDR3)												Rp 850.000
+Asus H81M-CS (LGA1150, Intel H81, DDR3)												Rp 850.000
+Asus H81M-C (LGA1150, Intel H81, DDR3)												Rp 890.000
+
+Biostar
+Biostar H81MHV3 (LGA1150, Intel H81, DDR3)											Rp 744.000
+
+ECS
+ECS H81H3-M4 (LGA1150, Intel H81, DDR3)												Rp 715.000
+ECS H81H3-M3S (LGA1150, Intel H81, DDR3)											Rp 785.000
+ECS B85H3-M7 (LGA1150, Intel B85, DDR3)												Rp 925.000
+ECS H87H3-M (LGA1150, Intel H87, DDR3)												Rp 970.000
+ECS B85H3-M3 (LGA1150, Intel B85, DDR3)												Rp 975.000
+ECS Z97-PK (LGA1150, Intel Z97, DDR3)												Rp 1.010.000
+ECS Z87H3-M (LGA1150, Intel Z87, DDR3)												Rp 1.300.000
+
+Gigabyte
+Gigabyte GA-H81M-S1 (LGA1150, H81, DDR3, SATA3, USB3)										Rp 827.000
+Gigabyte GA-H81M-DS2 (LGA1150, H81, DDR3, SATA3, USB3)										Rp 850.000
+Gigabyte GA-H81M-H (LGA1150, H81, DDR3, SATA3, USB3)										Rp 860.000
+Gigabyte GA-H81M-S2PH (LGA1150, H81, DDR3, SATA3, USB3)										Rp 944.000
+Gigabyte GA-P81-D3 (LGA1150, H81, DDR3, SATA3, USB3)										Rp 1.015.000
+
+MAXSUN
+MAXSUN MS-H81M (LGA1150, H81, DDR3, VGA+DVI)											Rp 670.000
+MAXSUN MS-B85-BTC (LGA 1150, B85, DDR3, 3xPCI-E Slot + 3xPCI-E X1)								Rp 1.200.000
+
+MSI
+MSI H81M-E33 (LGA1150, H81, DDR3) (By WPG)											Rp 820.000
+MSI H81i (LGA1150, H81, DDR3) (By WPG)												Rp 1.080.000
+
+VenomRX
+VenomRX Intel H81 (LGA1150, Intel H81, DDR3)											Rp 545.000
+
+
+Intel LGA1151
+
+ASRock
+ASRock H110M-DVS (LGA1151, H110, DDR4)												Rp 760.000
+ASRock H110M-HDV (LGA1151, H110, DDR4)												Rp 785.000
+ASRock Fatal1ty B250M Performance (LGA1151, B250, DDR4)										Rp 1.475.000
+ASRock H110 Pro BTC+ (LGA1151, H110, DDR4)											Rp 1.499.000
+ASRock Fatal1ty B250 Gaming K4 (LGA1151, B250, DDR4)										Rp 1.525.000
+ASRock Fatal1ty Z270 Gaming K4 (LGA1151, Z270, DDR4)										Rp 1.675.000
+ASRock Fatal1ty H270 Performance (LGA1151, H270, DDR4)										Rp 1.710.000
+ASRock Fatal1ty Z270 Gaming K6 (LGA1151, Z270, DDR4)										Rp 2.115.000
+
+Asus
+Asus EX-H110M-V3/CSM (LGA1151,H110, DDR4)											Rp 850.000
+Asus H110M-K (LGA1151,H110,DDR4)												Rp 850.000
+Asus EX-H110M-V (LGA1151,H110, DDR4)												Rp 860.000
+Asus H110M-E (LGA1151,H110, DDR4)												Rp 885.000
+Asus H110M-C2/CSM (LGA1151,H110, DDR4)												Rp 890.000
+Asus H110M-D (LGA1151,H110, DDR4)												Rp 900.000
+Asus EX-B150M-V5 (LGA1151,B150, DDR4)												Rp 910.000
+Asus H110M-A (LGA1151,H110, DDR4)												Rp 935.000
+Asus H110M-A/CSM (LGA1151,H110, DDR4)												Rp 950.000
+Asus EX-B250M V3 (LGA1151, B250, DDR4)												Rp 1.260.000
+Asus Z170M-PLUS (LGA1151,Z170, DDR4)												Rp 1.310.000
+Asus EX-B250M V5 (LGA1151, B250, DDR4)												Rp 1.395.000
+Asus B250 Mining Expert (LGA1151, B250, DDR4, 19 PCIe Slot)									Rp 1.450.000
+Asus EX-B250 V7 (LGA1151, B250, DDR4)												Rp 1.460.000
+Asus PRIME B250-PLUS (LGA1151,B250, DDR4)											Rp 1.610.000
+Asus PRIME Z270M-PLUS (LGA1151,Z270, DDR4)											Rp 1.710.000
+Asus Z170-K (LGA1151,Z170, DDR4)												Rp 1.720.000
+Asus PRIME H270 Pro (LGA1151,H270, DDR4)											Rp 1.780.000
+Asus Z170I Pro-Gaming (LGA1151,Z170, DDR4)											Rp 2.010.000
+Asus PRIME Z270-P (LGA1151,Z270, DDR4)												Rp 2.350.000
+Asus PRIME Z270-K (LGA1151,Z270, DDR4)												Rp 2.365.000
+Asus ROG Maximus IX APEX (LGA1151,Z270, DDR4)											Rp 2.510.000
+Asus Maximus VIII Impact (LGA1151,Z170, DDR4)											Rp 2.515.000
+Asus ROG STRIX Z270I Gaming Aura (LGA1151,Z270, DDR4)										Rp 2.660.000
+Asus Workstation P10S-X (LGA1151, C232, DDR4)											Rp 2.750.000
+Asus Workstation P11C-X (LGA1151, C242, DDR4)											Rp 2.900.000
+Asus ROG STRIX Z270G Gaming (LGA1151,Z270, DDR4)										Rp 3.030.000
+Asus Maximus VIII Ranger (LGA1151,Z170, DDR4)											Rp 3.080.000
+Asus Maximus VIII Gene (LGA1151,Z170, DDR4)											Rp 3.420.000
+Asus Maximus VIII Formula (LGA1151,Z170, DDR4)											Rp 3.515.000
+Asus Workstation P10S-M WS (LGA1151, C236, DDR4)										Rp 3.600.000
+Asus Workstation P10S WS (LGA1151, C236, DDR4)											Rp 3.700.000
+Asus ROG Maximus IX Hero (LGA1151,Z270, DDR4)											Rp 4.230.000
+Asus Z170 Deluxe (LGA1151,Z170, DDR4)												Rp 4.899.000
+Asus Maximus VIII Extreme (LGA1151,Z170, DDR4)											Rp 6.490.000
+Asus ROG Maximus IX Extreme (LGA1151,Z270, DDR4)										Rp 8.050.000
+
+Biostar
+Biostar H110MH Pro D4 (LGA1151, Intel H110, DDR4)										Rp 730.000
+Biostar H110MHV3 (LGA1151, Intel H110, DDR3)											Rp 730.000
+Biostar H110MHC (LGA1151, Intel H110, DDR4)											Rp 730.000
+Biostar Racing B250ET2 (LGA1151, Intel B250, DDR4)										Rp 917.000
+Biostar HiFI B150S1 D4 (LGA1151, Intel B150, DDR4)										Rp 1.061.000
+Biostar TB250-BTC (LGA1151, Intel B250, DDR4)											Rp 1.104.000
+Biostar Racing B250GT5 (LGA1151, Intel B250, DDR4)										Rp 1.162.000
+Biostar Racing B250GTN (LGA1151, Intel B250, DDR4)										Rp 1.162.000
+Biostar HIFI H170S3H (LGA1151, Intel H170, DDR3)										Rp 1.295.000
+Biostar TB250-BTC (LGA1151, Intel B250, DDR4) - Bundled Riser 6Pcs								Rp 1.392.000
+Biostar TB250-BTC Pro (LGA1151, Intel B250, DDR4)										Rp 1.493.000
+Biostar Racing Z270GTN (LGA1151, Intel Z270, DDR4)										Rp 1.526.000
+Biostar Racing Z270GT8 (LGA1151, Intel Z270, DDR4)										Rp 2.013.000
+Biostar TB250-BTC Pro (LGA1151, Intel B250, DDR4) - Bundled Riser 12Pcs								Rp 2.069.000
+
+Digital Alliance
+Digital Alliance IH110-MA-V2 (LGA1151, H110, DDR4)										Rp 750.000
+Digital Alliance IB250-MA-V2 (LGA1151, B250, DDR4)										Rp 880.000
+
+ECS
+ECS H110M4-C2H (LGA1151, Intel H110, DDR4)											Rp 820.000
+ECS B250H4-M20 (LGA1151, B250, DDR4)												Rp 990.000
+ECS Z170-CLAYMORE (LGA1151, Intel Z170, DDR4)											Rp 2.150.000
+ECS Z170-LIGHTSABER (LGA1151, Intel Z170, DDR4)											Rp 2.650.000
+
+Gigabyte
+Gigabyte GA-H110M-DS2 (LGA1151, H110, DDR4)											Rp 860.000
+Gigabyte GA-H110M-H (LGA1151, H110, DDR4)											Rp 945.000
+Gigabyte GA-H110M-S2PH (LGA1151, H110, DDR4)											Rp 965.000
+Gigabyte GA-H110-D3A (LGA1151, H110, DDR4)											Rp 985.000
+Gigabyte GA-B250M-D2V (LGA1151, B250, DDR4)											Rp 1.249.000
+Gigabyte GA-B250M-DS3H (LGA1151, B250, DDR4)											Rp 1.370.000
+Gigabyte GA-B250-FinTech (LGA1151, B250, DDR4, 12 PCIe Slot)									Rp 1.550.000
+Gigabyte GA-H270M-DS3H (LGA1151, H270, DDR4)											Rp 1.898.000
+Gigabyte GA-H270-HD3 (LGA1151, H270, DDR4)											Rp 1.997.000
+Gigabyte GA-H270-Gaming 3 (LGA1151, H270, DDR4)											Rp 2.332.000
+
+Intel
+Intel Server Board S1200SPSR, Intel® Xeon® Processor E3 v6 Series LGA1151							Rp 2.725.000
+
+MAXSUN
+MAXSUN MS-H110D4 Turbo M.2 (LGA1151, H110, DDR4, USB3, VGA+DVI+HDMI, Gigabit Gaming Network card)       			Rp 690.000
+MAXSUN MS-B250D4L (LGA1151, B250, DDR4, M.2, VGA+DVI)										Rp 790.000
+MAXSUN MS-B250MD4 Turbo (LGA1151, B250, DDR4, 2 Slot VGA PCI-E, M.2)								Rp 930.000
+
+MSI
+MSI H110M-Pro VH Plus (LGA1151, H110, DDR4) (By WPG)										Rp 847.000
+MSI H110M-A Pro M2 (LGA1151, H110, DDR4) (By WPG)										Rp 932.000
+
+Supermicro
+Supermicro C7B250-CB-ML-O (LGA1151, B250, DDR4) By AAA										Rp 999.000
+Supermicro C7Z270-CG-L-O (LGA1151, Z270, DDR4) By AAA										Rp 1.199.000
+Supermicro C7H270-CG-ML-O (LGA1151, H270, DDR4) By AAA										Rp 1.199.000
+
+
+Intel LGA1151V2
+
+ASRock
+ASRock H310CM-HDV (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 825.000
+ASRock H310CM-DVS (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 835.000
+ASRock H310CM-HDV/M.2 (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 960.000
+ASRock B365M-HDV (LGA1151V2, B365, DDR4, USB3.1, SATA3)										Rp 1.145.000
+ASRock B365M Pro4 (LGA1151V2, B365, DDR4, USB3.1, SATA3)									Rp 1.305.000
+ASRock B365M Phantom Gaming 4 (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 1.399.000
+ASRock B365 Pro4 (LGA1151V2, B365, DDR4, USB3.1, SATA3)										Rp 1.420.000
+ASRock B365 Phantom Gaming 4 (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 1.775.000
+ASRock Fatal1ty B360 Gaming K4 (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 1.785.000
+ASRock Fatal1ty H370 Performance (LGA1151V2, H370, DDR4, USB3.1, SATA3)								Rp 1.945.000
+ASRock Z390 Pro4 (LGA1151V2, Z390, DDR4, USB3.1, SATA3)										Rp 2.199.000
+ASRock Z390 Phantom Gaming 4S (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 2.220.000
+ASRock Z390 Steel Legend (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 2.640.000
+ASRock Z390 Extreme4 (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 3.050.000
+ASRock Z390 Phantom Gaming ITX/AC (LGA1151V2, Z390, DDR4, USB3.1, SATA3)							Rp 3.200.000
+ASRock Z390 Phantom Gaming 9 (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.400.000
+
+Asus
+Asus PRIME H310M-K (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 960.000
+Asus EX-H310M V3 (LGA1151V2, H310, DDR4, USB3.1, SATA3)										Rp 990.000
+Asus PRIME H310M-D (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 1.050.000
+Asus PRIME H310M-A (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 1.080.000
+Asus PRIME H310M-E (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 1.120.000
+Asus PRIME H310M-C (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 1.160.000
+Asus TUF H310M-PLUS Gaming (LGA1151V2, H310, DDR4, USB3.1, SATA3)								Rp 1.285.000
+Asus EX-B365M-V (LGA1151V2, B365, DDR4, USB3.1, SATA3)										Rp 1.450.000
+Asus TUF H310-PLUS Gaming (LGA1151V2, H310, DDR4, USB3.1, SATA3)								Rp 1.490.000
+Asus PRIME B360M-K (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 1.500.000
+Asus EX-B365M-V5 (LGA1151V2, B365, DDR4, USB3.1, SATA3)										Rp 1.500.000
+Asus PRIME B365M-A (LGA1151V2, B365, DDR4, USB3.1, SATA3)									Rp 1.590.000
+Asus PRIME B360M-A (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 1.605.000
+Asus TUF B360M-E Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 1.605.000
+Asus ROG STRIX B365-G Gaming (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 1.910.000
+Asus TUF B360M-PLUS Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 1.950.000
+Asus TUF B365M-PLUS Gaming (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 1.950.000
+Asus TUF B360-Pro Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 2.120.000
+Asus ROG STRIX B360-H Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 2.150.000
+Asus ROG STRIX B360-G Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 2.150.000
+Asus TUF H370-Pro Gaming (LGA1151V2, H370, DDR4, USB3.1, SATA3)									Rp 2.250.000
+Asus PRIME H370-A (LGA1151V2, H370, DDR4, USB3.1, SATA3)									Rp 2.310.000
+Asus PRIME Z370-P II (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 2.325.000
+Asus ROG STRIX B360-I Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 2.450.000
+Asus TUF Z370-PLUS Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 2.525.000
+Asus ROG STRIX B360-F Gaming (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 2.550.000
+Asus ROG STRIX B365-F Gaming (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 2.650.000
+Asus PRIME Z390-P (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 2.845.000
+Asus TUF Z390-PLUS Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 3.125.000
+Asus ROG Strix Z370-G Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 3.285.000
+Asus PRIME Z370-A (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 3.325.000
+Asus ROG Strix Z370-H Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 3.325.000
+Asus TUF Z370-Pro Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 3.370.000
+Asus TUF Z390-Pro Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 3.500.000
+Asus ROG Strix Z390-H Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 3.560.000
+Asus ROG Strix Z370-F Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 3.625.000
+Asus ROG Strix Z370-I Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 3.675.000
+Asus PRIME Z390-A (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 3.800.000
+Asus ROG Strix Z370-E Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 4.020.000
+Asus ROG STRIX Z390-F Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.200.000
+Asus ROG Strix Z390-I Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.400.000
+Asus ROG Strix Z390-E Gaming (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.445.000
+Asus ROG Maximus X Hero (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 4.750.000
+Asus ROG Maximus X APEX (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 4.770.000
+Asus ROG Maximus XI Gene (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 5.250.000
+Asus ROG Maximus X Code (LGA1151V2, Z370, DDR4, USB3.1, SATA3)									Rp 5.300.000
+Asus ROG Maximus XI Hero (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 5.350.000
+Asus ROG Maximus X Hero (WI-FI AC) (LGA1151V2, Z370, DDR4, USB3.1, SATA3)							Rp 5.695.000
+Asus ROG Maximus XI Hero (WI-FI) (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 5.700.000
+Asus ROG Maximus X FORMULA (LGA1151V2, Z370, DDR4, USB3.1, SATA3)								Rp 5.800.000
+Asus ROG Maximus XI Code (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 5.850.000
+Asus ROG Maximus XI APEX (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 6.500.000
+Asus ROG Maximus XI Formula (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 7.300.000
+
+Biostar
+Biostar H310MHD3 (LGA1151V2, H310, DDR3, USB3.1, SATA3)										Rp 744.000
+Biostar H310MHP (LGA1151V2, Intel H310, USB3.1, DDR4)										Rp 802.000
+Biostar H310MHC2 (LGA1151V2, Intel H310, USB3.1, DDR4)										Rp 816.000
+Biostar H310MHD Pro (LGA1151V2, Intel H310, USB3.1, DDR4)									Rp 874.000
+Biostar B365MHC (LGA1151V2, Intel B365, USB3.1, DDR4)										Rp 932.000
+Biostar B360M-D2V (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 975.000
+Biostar B360MHD Pro (LGA1151V2, Intel B360, USB3.1, DDR4)									Rp 1.018.000
+Biostar Racing B360GT3S (LGA1151V2, Intel B360, USB3.1, DDR4)									Rp 1.392.000
+Biostar Racing B360GT5S (LGA1151V2, Intel B360, USB3.1, DDR4)									Rp 1.450.000
+
+ECS
+ECS H310H5-M2 (LGA1151V2, Intel H310, DDR4)											Rp 885.000
+
+Gigabyte
+Gigabyte H310M-DS2 (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 920.000
+Gigabyte H310M-H 2.0 (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 977.000
+Gigabyte B360M H (LGA1151V2, B360, DDR4, USB3.1, SATA3)										Rp 1.337.000
+Gigabyte B365M H (LGA1151V2, B365, DDR4, USB3.1, SATA3)										Rp 1.359.000
+Gigabyte B360M DS3H (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 1.375.000
+Gigabyte B365M-DS3H (LGA1151V2, B365, DDR4, USB3.1, SATA3)									Rp 1.430.000
+Gigabyte B365M Aorus Elite (LGA1151V2, B365, DDR4, USB3.1, SATA3)								Rp 1.675.000
+Gigabyte B360M Aorus Pro (LGA1151V2, B365, DDR4, USB3.1, SATA3)									Rp 1.785.000
+Gigabyte B360 Aorus Gaming 3 (LGA1151V2, B360, DDR4, USB3.1, SATA3)								Rp 1.989.000
+Gigabyte B360N Wifi (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 1.999.000
+Gigabyte B360 Aorus Gaming 3 WIFI (LGA1151V2, B360, DDR4, USB3.1, SATA3)							Rp 2.159.000
+Gigabyte Z390 M (LGA1151V2, Z390, DDR4, USB3.1, SATA3)										Rp 2.280.000
+Gigabyte Z390 D (LGA1151V2, Z390, DDR4, USB3.1, SATA3)										Rp 2.310.000
+Gigabyte Z390 UD (LGA1151V2, Z390, DDR4, USB3.1, SATA3)										Rp 2.390.000
+Gigabyte Z390 Aorus Elite (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 3.430.000
+Gigabyte C246-WU4 (LGA1151V2, C246, DDR4)											Rp 3.450.000
+Gigabyte Z390 I Aorus Pro Wifi (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 3.940.000
+Gigabyte Z390 Aorus Ultra (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.145.000
+Gigabyte Z390 Aorus Master (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 4.870.000
+Gigabyte Z390 Designare (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 5.690.000
+Gigabyte Z390 Aorus Xtreme (LGA1151V2, Z390, DDR4, USB3.1, SATA3)								Rp 8.790.000
+Gigabyte Z390 Aorus Xtreme Waterforce (LGA1151V2, Z390, DDR4, USB3.1, SATA3)							Rp 13.450.000
+
+MAXSUN
+MAXSUN MS-H310M-VH Challenger Series (LGA1151V2, H310, DDR4, USB3, VGA+HDMI, Gigabit 1000 Mbps Gaming Network card)   		Rp 895.000
+MAXSUN MS-B360M Challenger Series (LGA1151V2, B360, DDR4, USB3, VGA+HDMI, 2xM.2, Gigabit 1000 Mbps Gaming Network card)       	Rp 990.000
+MAXSUN MS-iCraft Z370 Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)       							Rp 2.450.000
+
+MSI
+MSI H310M Pro-VH Plus (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)								Rp 920.000
+MSI H310M Pro-VD Plus (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 930.000
+MSI H310M Pro-VDH Plus (LGA1151V2, H310, DDR4, USB3.1, SATA3)									Rp 975.000
+MSI H310M Pro-M2 Plus (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.040.000
+MSI B360M Pro-VH (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.210.000
+MSI B360M Pro-VD (LGA1151V2, B360, DDR4, USB3.1, SATA3)										Rp 1.210.000
+MSI B360M Pro-VDH (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.240.000
+MSI B365M Pro-VDH (LGA1151V2, B365, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.249.000
+MSI H310M Gaming Plus (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.275.000
+MSI H310M Gaming Arctic (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.330.000
+MSI B360-A Pro (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)									Rp 1.370.000
+MSI B360M Gaming Plus (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.445.000
+MSI B360M Bazooka (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.445.000
+MSI B360M Mortar (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.495.000
+MSI MAG B365M Mortar (LGA1151V2, B365, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.499.000
+MSI B360 Gaming Plus (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.665.000
+MSI H310-A Pro (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)									Rp 1.675.000
+MSI B360M Mortar Titanium (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)							Rp 1.740.000
+MSI H370M Bazooka (LGA1151V2, H370, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.749.000
+MSI B360 Gaming Arctic (LGA1151V2, B360, DDR4, USB3.1, SATA3) (By WPG)								Rp 1.925.000
+MSI Z370-A PRO (LGA1151V2, Z370, DDR4, USB3.1, SATA3)										Rp 1.990.000
+MSI Z390-A Pro (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)									Rp 2.170.000
+MSI MAG Z390M Mortar (LGA1151V2, Z390, DDR4, USB3.1, SATA3)									Rp 2.300.000
+MSI MPG Z390 Gaming Plus (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)							Rp 3.020.000
+MSI MAG Z390 Tomahawk (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)								Rp 3.190.000
+MSI MPG Z390 Gaming Pro Carbon (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)							Rp 3.930.000
+MSI MEG Z390 ACE (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)								Rp 4.850.000
+MSI MEG Z390 Godlike (LGA1151V2, Z390, DDR4, USB3.1, SATA3) (By WPG)								Rp 9.899.000
+
+Supermicro
+Supermicro C7B360-CB-M-O (LGA1151V2, B360, DDR4, USB3.1, SATA3)									Rp 999.000
+Supermicro C7Z370-CG-L-O (LGA1151V2, Z370, DDR4, USB3.1) By AAA									Rp 1.499.000
+
+
+Intel LGA1155
+
+Asus
+Asus H61M-E (LGA1155, Intel H61, DDR3)												Rp 910.000
+Asus H61M-C (LGA1155, Intel H61, DDR3)												Rp 960.000
+Asus H61M-K (LGA1155, Intel H61, DDR3)												Rp 1.125.000
+
+Biostar
+Biostar IH61MF (LGA1155, Intel H61, DDR3, USB2.0)										Rp 903.000
+
+CARDEX
+CARDEX LGA1155 H61 (LGA1155, Intel H61, DDR3)											Rp 560.000
+
+Digital Alliance
+Digital Alliance IGH61-MA-V2 (LGA1155, Intel H61, DDR3)										Rp 675.000
+
+ECS
+ECS H61H2-MV (LGA1155, Intel H61, DDR3)												Rp 1.020.000
+
+Gigabyte
+Gigabyte GA-H61M-DS2 (LGA1155, H61, DDR3)											Rp 1.080.000
+
+MSI
+MSI H61M-P20 (LGA1155, Intel H61, DDR3) (By WPG)										Rp 756.000
+MSI H61M-P31/W8 (LGA1155, Intel H61, DDR3) (By WPG)										Rp 825.000
+MSI H61M-P32/W8 LPT (LGA1155, Intel H61, DDR3) (By WPG)										Rp 900.000
+
+VenomRX
+VenomRX Intel H61 (LGA1155, Intel H61, DDR3)											Rp 575.000
+
+Xtreme
+Xtreme H61 (LGA155, H61, DDR3)													Rp 620.000
+
+
+Intel LGA2011
+
+Asus
+Asus X99 Sabertooth (LGA2011v3, Intel X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)						Rp 4.325.000
+Asus ROG STRIX X99 Gaming (LGA2011v3, Intel X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)					Rp 4.525.000
+Asus Z10PA-D8 (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)						Rp 6.400.000
+Asus X99-E WS (LGA2011v3, Intel® X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)							Rp 8.650.000
+Asus Z10PE-D8 WS (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)						Rp 9.900.000
+Asus Z10PE-D16 WS (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)					Rp 10.300.000
+
+Intel
+Intel E-Series Server Board S2600CW2R - Intel® Xeon® Processor E5 v4 Series LGA2011-v3						Rp 4.695.000
+
+
+Intel LGA2066
+
+ASRock
+ASRock Fatal1ty X299 Gaming K6 (LGA2066, X299, DDR4)										Rp 4.250.000
+
+Asus PRIME X299-A (LGA 2066, X299, DDR4)											Rp 5.545.000
+Asus ROG STRIX X299-E Gaming (LGA2066, X299, DDR4)										Rp 5.875.000
+Asus TUF X299 Mark 1 (LGA2066,X299,DDR4)											Rp 6.150.000
+Asus Workstation X299 PRO WS (LGA2066, X299, DDR4)										Rp 7.600.000
+Asus ROG RAMPAGE VI APEX (LGA 2066, X299, DDR4)											Rp 8.000.000
+Asus PRIME X299 Deluxe (LGA2066, X299, DDR4)											Rp 8.250.000
+Asus PRIME X299 Deluxe II (LGA2066, X299, DDR4)											Rp 8.550.000
+Asus Workstation X299 SAGE WS (LGA2066, X299, DDR4)										Rp 9.200.000
+Asus ROG RAMPAGE VI Extreme Omega (LGA 2066, X299, DDR4)									Rp 12.050.000
+
+Gigabyte
+Gigabyte X299 Aorus Master (LGA 2066, X299, DDR4)										Rp 6.575.000
+Gigabyte X299 Designare EX (LGA 2066, X299, DDR4)										Rp 7.870.000
+Gigabyte X299-WU8 (LGA 2066, X299, DDR4)											Rp 8.990.000
+
+
+Intel LGA3647
+
+Asus
+Asus Workstation C621E SAGE WS (LGA 3647, C621, DDR4)										Rp 10.900.000
+Asus ROG Dominus Extreme (LGA 3647, C621, DDR4)											Rp 27.990.000
+
+Gigabyte
+Gigabyte C621-SU8 (LGA 3647, C621, DDR4)											Rp 6.960.000
+Gigabyte C621-SD8 (LGA 3647, C621, DDR4)											Rp 8.390.000
+
+Intel
+Intel Server Board S2600STB, Intel® Xeon® Scalable Processors LGA3647								Rp 9.900.000

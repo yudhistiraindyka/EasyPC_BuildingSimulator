@@ -1,0 +1,311 @@
+ADATA
+ADATA DDR4 Value Series PC21330 4GB (1x4GB) Single Channel AD4U2666J4G19-R			Rp 300.000
+ADATA DDR4 Value Series PC21330 8GB (1x8GB) Single Channel AD4U266638G19-R			Rp 520.000
+ADATA DDR4 XPG GAMMIX D30 PC24000 3000MHz 8GB (1X8GB) Single Channel				Rp 570.000
+ADATA DDR4 Value Series PC21330 8GB (2x4GB) Dual Channel AD4U2666J4G19-D			Rp 590.000
+ADATA DDR4 XPG GAMMIX D30 PC24000 3000MHz 16GB (2X8GB) Dual Channel				Rp 1.120.000
+ADATA DDR4 XPG SPECTRIX D40 PC19200 2400MHz 16GB (2X8GB) Dual Channel - RGB			Rp 1.150.000
+ADATA DDR4 XPG SPECTRIX D41 GREY PC24000 3000MHz 16GB (2X8GB) Dual Channel - RGB		Rp 1.250.000
+ADATA DDR4 XPG SPECTRIX D60G PC25600 3200MHz 16GB (2X8GB) Dual Channel - RGB			Rp 1.450.000
+ADATA DDR4 XPG GAMMIX D30 PC24000 3000MHz 32GB (2X16GB) Dual Channel				Rp 2.170.000
+ADATA DDR4 XPG SPECTRIX D41 GREY PC24000 3000MHz 32GB (2X16GB) Dual Channel - RGB		Rp 2.280.000
+ADATA DDR4 XPG SPECTRIX D60G PC25600 3200MHz 32GB (2X16GB) Dual Channel - RGB			Rp 2.850.000
+
+Apacer
+Apacer DDR3 PC12800 1600Mhz 2GB									Rp 199.000
+Apacer DDR3 PC12800 1600Mhz 4GB									Rp 279.000
+Apacer DDR4 PC19200 2400Mhz 4GB									Rp 289.000
+Apacer DDR4 PC21000 2666Mhz 4GB - Panther/Silver Golden						Rp 339.000
+Apacer DDR4 PC21000 2666Mhz 8GB - Panther Golden						Rp 519.000
+Apacer DDR3 PC12800 1600Mhz 8GB - Black With Heatsink						Rp 520.000
+Apacer DDR4 PC21000 2666Mhz 8GB (2x4GB) - Panther Rage RGB Silver Aura2				Rp 799.000
+
+Avexir
+Avexir DDR3 Core Red PC12800 4GB (1x4GB) Single Channel 					Rp 270.000
+Avexir DDR4 Core Blue PC19200 4GB (1x4GB) Single Channel 					Rp 365.000
+Avexir DDR4 Core Red PC21330 4GB (1x4GB) Single Channel 					Rp 370.000
+Avexir DDR4 Core Blue PC21330 4GB (1x4GB) Single Channel 					Rp 370.000
+Avexir DDR3 Core Red PC12800 8GB (1x8GB) Single Channel 					Rp 495.000
+Avexir DDR4 Core Blue PC21330 8GB (1x8GB) Single Channel 					Rp 620.000
+Avexir DDR4 Core Red PC21330 8GB (1x8GB) Single Channel 					Rp 620.000
+Avexir DDR4 Core Blue PC21330 8GB (2x4GB) Dual Channel						Rp 720.000
+Avexir DDR4 Core Red PC21330 8GB (2x4GB) Dual Channel 						Rp 720.000
+Avexir DDR4 Core2 Titanium RGB LED PC21330 8GB (1x8GB) Single Channel				Rp 770.000
+Avexir DDR4 Core RGB LED PC21330 8GB (2x4GB) Dual Channel 					Rp 770.000
+Avexir DDR4 Core2 Titanium RGB LED PC21330 8GB (2X4GB) Dual Channel 				Rp 790.000
+Avexir DDR4 Core2 Titanium RGB LED PC24000 16GB (2X8GB) Dual Channel				Rp 1.150.000
+Avexir DDR4 Core Blue PC21330 16GB (2x8GB) Dual Channel 					Rp 1.190.000
+Avexir DDR4 Core Red PC21330 16GB (2x8GB) Dual Channel						Rp 1.190.000
+Avexir DDR4 Core RGB LED PC21330 16GB (2x8GB) Dual Channel					Rp 1.240.000
+Avexir DDR4 Core2 Titanium RGB LED PC25600 16GB (2X8GB) Dual Channel				Rp 1.350.000
+Avexir DDR4 Raiden Series PC24000 16GB (2x8GB) Dual Channel 					Rp 2.190.000
+Avexir DDR4 Core2 Titanium RGB LED PC24000 32GB (2X16GB) Dual Channel 			Rp 2.550.000
+Avexir DDR4 Core2 Titanium RGB LED PC25600 32GB (2X16GB) Dual Channel 			Rp 2.750.000
+
+Corsair
+Corsair DDR3 Value 4GB PC12800 (1X4GB)								Rp 345.000
+Corsair DDR4 Value 4GB PC19200 (1X4GB)								Rp 395.000
+Corsair DDR4 Vengeance LPX PC19200 4GB (1X4GB) 							Rp 395.000
+Corsair DDR4 Vengeance LPX PC19200 4GB (1X4GB)							Rp 395.000
+Corsair DDR3 Vengeance Black PC12800 4GB (1X4GB)						Rp 400.000
+Corsair DDR4 Value 4GB PC21000 (1X4GB)								Rp 405.000
+Corsair DDR3 Value 8GB PC12800 (1X8GB)								Rp 560.000
+Corsair DDR4 Vengeance LPX PC19200 8GB (1X8GB)							Rp 595.000
+Corsair DDR4 Vengeance LPX PC19200 8GB (1X8GB)							Rp 595.000
+Corsair DDR4 Vengeance LPX PC21000 8GB (1X8GB)							Rp 615.000
+Corsair DDR3 Vengeance Black PC12800 8GB (1X8GB)						Rp 635.000
+Corsair DDR3 Vengeance Black PC12800 8GB (2X4GB)						Rp 760.000
+Corsair DDR4 Vengeance LPX PC21000 8GB (2X4GB)							Rp 785.000
+Corsair DDR4 Vengeance LPX PC21000 8GB (2X4GB)							Rp 785.000
+Corsair DDR4 Vengeance LPX PC21000 16GB (1X16GB)						Rp 1.165.000
+Corsair DDR4 Vengeance LPX PC21000 16GB (2X8GB)							Rp 1.205.000
+Corsair DDR4 Vengeance LPX PC21000 16GB (2X8GB)							Rp 1.205.000
+Corsair DDR4 Vengeance LPX PC21000 16GB (2X8GB) - For AMD RYZEN					Rp 1.205.000
+Corsair DDR3 Vengeance Black PC12800 16GB (2X8GB)						Rp 1.225.000
+Corsair DDR4 Vengeance LPX PC24000 16GB (2X8GB)							Rp 1.385.000
+Corsair DDR4 Vengeance LPX PC25600 16GB (2X8GB) 						Rp 1.405.000
+Corsair DDR4 Vengeance RGB Pro PC21000 16GB (2X8GB) - Black Heat-Spreader			Rp 1.560.000
+Corsair DDR4 Vengeance RGB Pro PC21000 16GB (2X8GB) - White Heat-Spreader			Rp 1.560.000
+Corsair DDR4 Vengeance RGB Pro PC24000 16GB (2X8GB) - Black Heat-Spreader			Rp 1.605.000
+Corsair DDR4 Vengeance RGB Pro PC24000 16GB (2X8GB) - White Heat-Spreader 			Rp 1.605.000
+Corsair DDR4 Vengeance RGB Pro PC25600 16GB (2X8GB) - Black Heat-Spreader			Rp 1.705.000
+Corsair DDR4 Vengeance RGB Pro PC25600 16GB (2X8GB) - White Heat-Spreader			Rp 1.705.000
+Corsair DDR4 Dominator Platinum RGB PC25600 16GB (2X8GB) 					Rp 2.110.000
+Corsair DDR4 Dominator Platinum RGB PC25600 16GB (2X8GB) - For AMD RYZEN			Rp 2.110.000
+Corsair DDR4 Vengeance LPX PC21000 32GB (2X16GB)						Rp 2.305.000
+Corsair DDR4 Vengeance LPX PC24000 32GB (2X16GB)						Rp 2.585.000
+Corsair DDR4 Vengeance LPX PC25600 32GB (2X16GB)						Rp 2.585.000
+Corsair DDR4 Vengeance RGB Pro PC28800 16GB (2X8GB) - Black Heat-Spreader			Rp 2.585.000
+Corsair DDR4 Vengeance RGB Pro PC21000 32GB (2X16GB) - Black Heat-Spreader			Rp 2.685.000
+Corsair DDR4 Dominator Platinum RGB PC28800 16GB (2X8GB)					Rp 2.785.000
+Corsair DDR4 Vengeance RGB Pro PC24000 32GB (2X16GB) - Black Heat-Spreader			Rp 2.805.000
+Corsair DDR4 Vengeance RGB Pro PC25600 32GB (2X16GB) - Black Heat-Spreader			Rp 2.985.000
+Corsair DDR4 Dominator Platinum RGB PC25600 32GB (2X16GB)					Rp 3.485.000
+Corsair DDR4 Vengeance RGB Pro PC25600 16GB (2X8GB) - Black Heat-Spreader			Rp 3.705.000
+Corsair DDR4 Dominator Platinum RGB PC25600 16GB (2X8GB)					Rp 3.805.000
+
+Geil
+GEIL DDR4 EVO POTENZA PC21330 2666MHz Single Channel 4GB (1x4GB) 				Rp 320.000
+GEIL DDR4 EVO POTENZA PC21330 2666MHz Single Channel 8GB (1x8GB) 	 			Rp 545.000
+GEIL DDR4 AMD EDITION EVO POTENZA PC21330 2666MHz Dual Channel 8GB (2x4GB)			Rp 600.000
+GEIL DDR4 AMD EDITION EVO POTENZA PC21330 2666MHz Dual Channel 8GB (2x4GB)			Rp 600.000
+GEIL DDR4 EVO POTENZA PC21330 2666MHz Dual Channel 8GB (2x4GB) 19-19-19-43			Rp 640.000
+Geil DDR4 AMD EDITION SUPER LUCE SYNC RGB LED PC24000 3000MHz Dual Channel 8GB (2x4GB)		Rp 840.000
+Geil DDR4 SUPER LUCE SYNC RGB LED PC24000 3000MHz Dual Channel 8GB (2x4GB) 			Rp 840.000
+GEIL DDR4 AMD EDITION EVO POTENZA PC21330 2666MHz Dual Channel 16GB (2x8GB) 			Rp 1.060.000
+GEIL DDR4 EVO POTENZA PC21330 2666MHz Dual Channel 16GB (2x8GB) 19-19-19-43 			Rp 1.080.000
+Geil DDR4 SUPER LUCE SYNC RGB LED PC24000 3000MHz Dual Channel 16GB (2x8GB) 			Rp 1.250.000
+Geil DDR4 AMD EDITION SUPER LUCE SYNC RGB LED PC24000 3000MHz Dual Channel 16GB (2x8GB) 	Rp 1.270.000
+GEIL DDR4 EVO X II RGB LED PC24000 Dual Channel 16GB (2x8GB) - Gray Heat-Spreader		Rp 1.290.000
+GEIL DDR4 EVO X II RGB LED PC25600 Dual Channel 16GB (2x8GB) - Gray Heat-Spreader		Rp 1.390.000
+GEIL DDR4 AMD EDITION EVO POTENZA PC21330 2666MHz Dual Channel 32GB (2x16GB) 			Rp 2.120.000
+GEIL DDR4 EVO POTENZA PC21330 2666MHz Dual Channel 32GB (2x16GB) 				Rp 2.120.000
+GEIL DDR4 EVO X II RGB LED PC24000 Dual Channel 32GB (2x16GB) - Gray Heat-Spreader 		Rp 2.380.000
+GEIL DDR4 EVO X II RGB LED PC25600 Dual Channel 32GB (2x16GB) - Gray Heat-Spreader		Rp 2.650.000
+GEIL DDR4 EVO X RGB LED PC24000 Dual Channel 32GB (2x16GB) - Black Heat-Spreader		Rp 2.780.000
+
+Gigabyte
+Gigabyte DDR4 Aorus RGB PC25600 3200Mhz Dual Channel 16GB (2x8GB)				Rp 1.929.000
+
+Gloway
+GLOWAY DDR3 PC10600 Single Channel 2GB (1x2GB)							Rp 190.000
+GLOWAY DDR3 GAME-X SERIES PC12800 Single Channel 4GB (1x4GB)					Rp 220.000
+GLOWAY DDR3 PC12800 Single Channel 2GB (1x2GB)							Rp 270.000
+GLOWAY DDR4 GAME-X SERIES PC19200 Single Channel 4GB (1x4GB) - BLACK PCB			Rp 295.000
+GLOWAY DDR3 GAME-X SERIES PC12800 Single Channel 8GB (1x8GB)					Rp 400.000
+GLOWAY DDR4 GAME-X SERIES PC19200 Single Channel 8GB (1x8GB) - BLACK PCB			Rp 495.000
+GLOWAY DDR4 GAME-X SERIES PC19200 Dual Channel 8GB (2X4GB) - BLACK PCB				Rp 590.000
+GLOWAY DDR4 TYPE-B SERIES PC19200 Single Channel 8GB - RAINBOW LED				Rp 850.000
+GLOWAY DDR4 GAME-X SERIES PC19200 Dual Channel 16GB (2X8GB) - BLACK PCB				Rp 990.000
+GLOWAY DDR4 TYPE-B SERIES PC19200 Dual Channel 16GB (2X8GB) - RAINBOW LED			Rp 1.680.000
+
+Gskill
+Gskill DDR3 Value PC12800 4GB Single Channel							Rp 268.000
+Gskill DDR4 RipjawsV PC19200 4GB (1x4GB) Single Channel						Rp 397.000
+Gskill DDR3 Value PC12800 8GB Single Channel							Rp 482.000
+Gskill DDR4 RipjawsV PC21300 8GB (1x8GB) Single Channel						Rp 526.000
+Gskill DDR4 Value PC21300 8GB (1x8GB) Single Channel						Rp 565.000
+Gskill DDR4 RipjawsV PC21300 8GB (2x4GB) Dual Channel						Rp 795.000
+Gskill DDR4 RipjawsV PC19200 8GB (2x4GB) Dual Channel						Rp 812.000
+Gskill DDR4 RipjawsV PC19200 8GB (2x4GB) Dual Channel						Rp 960.000
+Gskill DDR4 Fortis PC19200 16GB (2x8GB) Dual Channel 						Rp 999.000
+Gskill DDR4 RipjawsV PC21300 16GB (2x8GB) Dual Channel 						Rp 999.000
+Gskill DDR4 AEGIS PC19200 16GB (2x8GB) Dual Channel 						Rp 999.000
+Gskill DDR4 RipjawsV PC21300 16GB (1x16GB) Single Channel 					Rp 1.101.000
+Gskill DDR4 RipjawsV PC25600 16GB (2x8GB) Dual Channel 						Rp 1.189.000
+Gskill DDR4 Flare X PC25600 16GB (2x8GB) Dual Channel - For AMD Ryzen				Rp 1.336.000
+Gskill DDR4 SniperX PC28800 16GB (2x8GB) Dual Channel						Rp 1.358.000
+Gskill DDR4 TridentZ PC22400 16GB (2x8GB) Dual Channel						Rp 1.592.000
+Gskill DDR4 TridentZ RGB PC25600 16GB (2x8GB) Dual Channel					Rp 1.675.000
+Gskill DDR4 TridentZ Neo RGB PC25600 16GB (2x8GB) Dual Channel					Rp 1.840.000
+Gskill DDR4 TridentZ PC28800 16GB (2x8GB) Dual Channel						Rp 1.999.000
+Gskill DDR4 TridentZ Royal PC25600 16GB (2x8GB) Dual Channel					Rp 2.025.000
+Gskill DDR4 TridentZ RGB PC28800 16GB (2x8GB) Dual Channel					Rp 2.069.000
+Gskill DDR4 RipjawsV PC21300 32GB (2x16GB) Dual Channel						Rp 2.223.000
+Gskill DDR4 TridentZ Royal PC25600 16GB (2x8GB) Dual Channel					Rp 2.245.000
+Gskill DDR4 SniperX PC28800 32GB (2x16GB) Dual Channel						Rp 2.475.000
+Gskill DDR4 TridentZ Neo RGB PC28800 16GB (2x8GB) Dual Channel					Rp 2.610.000
+Gskill DDR4 RipjawsV PC25600 32GB (2x16GB) Dual Channel						Rp 2.960.000
+Gskill DDR4 TridentZ Neo RGB PC25600 32GB (2x16GB) Dual Channel					Rp 2.960.000
+Gskill DDR4 TridentZ RGB PC30900 16GB (2x8GB) Dual Channel					Rp 3.180.000
+Gskill DDR4 TridentZ PC25600 32GB (4x8GB) Quad Channel						Rp 3.785.000
+Gskill DDR4 Fortis PC19200 32GB (2x16GB) Dual Channel						Rp 3.865.000
+Gskill DDR4 TridentZ RGB PC28800 32GB (2x16GB) Dual Channel					Rp 4.269.000
+Gskill DDR4 TridentZ PC25600 32GB (2x16GB) Dual Channel						Rp 4.445.000
+Gskill DDR4 TridentZ Neo RGB PC28800 32GB (2x16GB) Dual Channel					Rp 4.610.000
+Gskill DDR4 TridentZ Royal PC34100 16GB (2x8GB) Dual Channel					Rp 5.185.000
+Gskill DDR4 TridentZ PC28800 32GB (4x8GB) Quad Channel						Rp 5.215.000
+Gskill DDR4 TridentZ Royal PC34100 16GB (2x8GB) Dual Channel					Rp 5.295.000
+Gskill DDR4 TridentZ RGB PC30900 32GB (2x16GB) Dual Channel					Rp 5.930.000
+Gskill DDR4 TridentZ RGB PC32000 32GB (4x8GB) Quad Channel					Rp 9.970.000
+
+KLEVV
+KLEVV DDR4 BOLT X Series PC25600 3200MHz Dual Channel 16GB (2X8GB)				Rp 1.250.000
+KLEVV DDR4 CRASS X RGB PC25600 3200MHz 16GB (2X8GB) RGB LED					Rp 1.450.000
+KLEVV DDR4 BOLT X Series PC25600 3200MHz Dual Channel 32GB (2X16GB)				Rp 2.350.000
+KLEVV DDR4 CRASS X RGB PC25600 3200MHz 32GB (2X16GB) RGB LED					Rp 2.650.000
+
+Kingston
+Kingston KVR DDR4 2666 Mhz (PC 21000) 4GB							Rp 301.000
+Kingston DDR3 4GB PC12800 Single Channel							Rp 379.000
+Kingston HyperX Fury Black DDR4 2666 MHz (PC 21000) 4GB (1x4GB)					Rp 416.000
+Kingston HyperX Fury Black DDR4 2400 MHz (PC 19200) 4GB (1x4GB)					Rp 485.000
+Kingston KVR DDR4 2400 MHz (PC 19200) 8GB							Rp 491.000
+Kingston KVR DDR4 2666 Mhz (PC 21000) 8GB							Rp 510.000
+Kingston HyperX Fury Red DDR4 2666 MHz (PC 21000) 8GB (1x8GB)					Rp 625.000
+Kingston HyperX Fury Black DDR4 2666 MHz (PC 21000) Dual Channel 8GB (2x4GB)			Rp 657.000
+Kingston DDR3 8GB PC12800 Single Channel							Rp 735.000
+Kingston HyperX Fury Black DDR4 3200 MHz (PC 25600) 8GB (1x8GB)					Rp 743.000
+Kingston HyperX Fury Black DDR4 2400 MHz (PC 19200) Dual Channel 8GB (2x4GB)			Rp 765.000
+Kingston HyperX Fury Black DDR4 2400 MHz (PC 19200) 8GB (1x8GB)					Rp 895.000
+Kingston HyperX Predator RGB DDR4 3200MHz (PC25600) 8GB (1x8GB) 				Rp 977.000
+Kingston HyperX Fury Black DDR4 2666 MHz (PC 21000) Dual Channel 16GB (2x8GB) 			Rp 1.048.000
+Kingston HyperX Fury White DDR4 2666 MHz (PC 21000) Dual Channel 16GB (2x8GB)			Rp 1.250.000
+Kingston HyperX Fury RGB DDR4 3200 MHz (PC 25600) 16GB (1x16GB)					Rp 1.330.000
+Kingston HyperX Fury RGB DDR4 3200 MHz (PC 25600) Dual Channel 16GB (2x8GB)			Rp 1.473.000
+Kingston HyperX Fury Black DDR4 3200 MHz (PC 25600) Dual Channel 16GB (2x8GB) 			Rp 1.635.000
+Kingston HyperX Fury Black DDR4 2400 MHz (PC 19200) Dual Channel 16GB (2x8GB) 			Rp 1.765.000
+Kingston HyperX Predator RGB DDR4 3200MHz (PC25600) Dual Channel 16GB (2X8GB)			Rp 1.850.000
+Kingston HyperX Fury White DDR4 2400 MHz (PC 19200) Quad Channel 32GB (4x8GB)			Rp 1.998.000
+
+OCPC
+OCPC BLADE DDR4 PC19200 2400Mhz 4GB (1x4GB)							Rp 570.000
+OCPC XTREME DDR4 PC19200 2400Mhz 4GB (1x4GB)							Rp 595.000
+OCPC BLADE DDR4 PC19200 2400Mhz 8GB (1x8GB)							Rp 835.000
+OCPC XTREME DDR4 PC19200 2400Mhz 8GB (1x8GB)							Rp 875.000
+OCPC BLADE DDR4 PC19200 2400Mhz 8GB KIT (2x4GB)							Rp 1.035.000
+OCPC XTREME DDR4 PC19200 2400Mhz 16GB KIT (2x8GB)						Rp 1.595.000
+
+Patriot
+Patriot DDR3 Signature Line Series PC12800 4GB							Rp 301.000
+Patriot DDR4 Viper 4 Elite Series Single Channel PC19200 4GB (1X4GB)				Rp 320.000
+Patriot DDR4 Signature Line Premium PC21000 4GB							Rp 329.000
+Patriot DDR3 Signature Line Kit Series Dual Channel PC12800 8G					Rp 496.000
+Patriot DDR3 Signature Line Series PC12800 8GB							Rp 496.000
+Patriot DDR4 Signature Line Premium PC21000 8GB							Rp 514.000
+Patriot DDR4 Signature Line Premium Dual Channel PC21000 8GB (2x4GB)				Rp 517.000
+Patriot DDR4 Viper 4 Elite Series Single Channel PC19200 8GB (1X8GB)				Rp 529.000
+Patriot DDR3 Viper 3 Series Dual Channel PC12800 8GB CL9 - Black Heatspreader			Rp 540.000
+Patriot DDR4 Viper Steel Series Single Channel PC24000 8GB (1x8GB)				Rp 561.000
+Patriot DDR4 Viper 4 Elite Series Dual Channel PC19200 8GB (2X4GB)				Rp 575.000
+Patriot DDR4 Viper 4 Elite Series Dual Channel PC21300 8GB (2X4GB)				Rp 589.000
+Patriot DDR4 Viper 4 Elite Series Dual Channel PC22400 8GB (2X4GB)				Rp 606.000
+Patriot DDR4 Viper 4 Blackout Series Dual Channel PC24000 8GB (2x4GB)				Rp 660.000
+Patriot DDR4 Viper Steel Series Single Channel PC24000 16GB (1x16GB)				Rp 888.000
+Patriot DDR4 Viper 4 Elite Series Dual Channel PC19200 16GB (2X8GB)				Rp 895.000
+Patriot DDR4 Viper Steel Series Dual Channel PC24000 16GB (2x8GB)				Rp 959.000
+Patriot DDR4 Viper 4 Blackout Series Dual Channel PC24000 16GB (2x8GB)				Rp 1.115.000
+Patriot DDR4 Viper RGB Series Dual Channel PC24000 16GB (2x8GB)					Rp 1.179.000
+Patriot DDR4 Viper RGB Series Dual Channel PC25600 16GB (2x8GB)					Rp 1.235.000
+Patriot DDR4 Viper 4 Blackout Series Dual Channel PC28800 16GB (2x8GB)				Rp 1.292.000
+Patriot DDR4 Viper RGB Series Dual Channel PC28800 16GB (2x8GB)					Rp 1.477.000
+Patriot DDR4 Viper 4 Elite Series Dual Channel PC19200 32GB (2X16GB)				Rp 1.697.000
+
+Team
+Team Elite DDR2 PC6400 800Mhz 1GB								Rp 235.000
+Team Elite Plus DDR3 PC12800 1600Mhz 2GB							Rp 280.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 4GB - For AMD Ryzen					Rp 315.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz 4GB 							Rp 315.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 4GB 							Rp 315.000
+Team Elite DDR3L 1.35V PC12800 1600Mhz 4GB 							Rp 325.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz 4GB							Rp 325.000
+Team Elite Plus DDR3 PC12800 1600Mhz 4GB							Rp 330.000
+Team Elite DDR2 PC6400 800Mhz 2GB								Rp 330.000
+Team T-Force Vulcan Z DDR4 PC21000 2666Mhz 4GB							Rp 345.000
+Team T-Force Vulcan RED DDR4 PC19200 2400Mhz 4GB						Rp 345.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 8GB - For AMD Ryzen					Rp 515.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz 8GB							Rp 515.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 8GB							Rp 515.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz 8GB							Rp 520.000
+Team T-Force Vulcan RED DDR4 PC19200 2400Mhz 8GB						Rp 545.000
+Team T-Force Vulcan Z DDR4 PC21000 2666Mhz 8GB 							Rp 570.000
+Team Elite DDR3L 1.35V PC12800 1600Mhz 8GB 							Rp 575.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz Dual Channel 8GB (2X4GB)				Rp 600.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz Dual Channel 8GB (2X4GB) - For AMD Ryzen		Rp 600.000
+Team Elite Plus Red DDR4 PC21000 2666Mhz Dual Channel 8GB (2X4GB) - For AMD Ryzen       	Rp 610.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz Dual Channel 8GB (2x4GB)				Rp 610.000
+Team Elite Plus DDR3 PC12800 1600Mhz 8GB 							Rp 610.000
+Team T-Force T1 DDR4 PC21000 Dual Channel 8GB (2x4GB) 						Rp 615.000
+Team T-Force Vulcan Z DDR4 PC21000 2666Mhz Dual Channel 8GB (2x4GB)				Rp 675.000
+Team Delta DDR4 RGB PC24000 3000Mhz Dual Channel 8GB (2x4GB) - Black Heatspreader       	Rp 845.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 16GB - For AMD Ryzen					Rp 1.010.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz 16GB							Rp 1.010.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz 16GB							Rp 1.010.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz 16GB							Rp 1.030.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz Dual Channel 16GB (2X8GB) - For AMD Ryzen		Rp 1.048.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz Dual Channel 16GB (2X8GB)				Rp 1.050.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz Dual Channel 16GB (2X8GB) - For AMD Ryzen      	Rp 1.050.000
+Team T-Force T1 DDR4 PC21000 Dual Channel 16GB (2x8GB)						Rp 1.050.000
+Team T-Force Vulcan Z DDR4 PC21000 2666Mhz 16GB							Rp 1.070.000
+Team Elite Plus Red DDR4 PC21000 2666Mhz Dual Channel 16GB (2X8GB) - For AMD Ryzen		Rp 1.070.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz Dual Channel 16GB (2x8GB)				Rp 1.070.000
+Team T-Force Vulcan RED DDR4 PC19200 2400Mhz 16GB						Rp 1.080.000
+Team T-Force Vulcan Z DDR4 PC21000 2666Mhz Dual Channel 16GB (2x8GB)				Rp 1.110.000
+Team T-Force Vulcan TUF Yellow DDR4 PC25600 Dual Channel 16GB (2x8GB)				Rp 1.185.000
+Team Delta TUF DDR4 RGB PC21000 2666Mhz Dual Channel 16GB (2x8GB) - Black Heatspreader		Rp 1.200.000
+Team Delta DDR4 RGB PC24000 3000Mhz Dual Channel 16GB (2X8GB) - White Heatspreader		Rp 1.255.000
+Team Delta DDR4 RGB PC24000 3000Mhz Dual Channel 16GB (2X8GB) - Black Heatspreader		Rp 1.255.000
+Team Delta TUF DDR4 RGB PC25600 3200Mhz Dual Channel 16GB (2x8GB) - Black Heatspreader		Rp 1.300.000
+Team T-Force Vulcan TUF Yellow DDR4 PC28800 Dual Channel 16GB (2x8GB)				Rp 1.385.000
+Team T-Force Xcalibur RGB Phantom Gaming Edition DDR4 PC25600 Dual Channel 16GB (2x8GB)		Rp 1.510.000
+Team T-Force Night Hawk DDR4 RGB PC25600 3200Mhz Dual Channel 16GB (2x8GB) - Black Heatspreader	Rp 1.575.000
+Team T-Force Night Hawk DDR4 RGB PC25600 3200Mhz Dual Channel 16GB (2x8GB) - White Heatspreader	Rp 1.575.000
+Team Elite Plus Black DDR4 PC19200 2400Mhz Dual Channel 32GB (2X16GB)				Rp 1.930.000
+Team Elite Plus Red DDR4 PC19200 2400Mhz Dual Channel 32GB (2X16GB) - For AMD Ryzen		Rp 1.950.000
+Team T-Force Night Hawk DDR4 RGB PC28800 3600Mhz Dual Channel 16GB (2x8GB) - Black Heatspreader	Rp 1.975.000
+Team EXtreme DDR4 PC28800 3600Mhz Dual Channel 16GB (2x8GB)					Rp 1.975.000
+Team T-Force Xcalibur RGB DDR4 PC28800 Dual Channel 16GB (2x8GB)				Rp 2.000.000
+Team Elite Plus Black DDR4 PC21000 2666Mhz Dual Channel 32GB (2x16GB)				Rp 2.125.000
+Team Elite Plus Red DDR4 PC21000 2666Mhz Dual Channel 32GB (2X16GB) - For AMD Ryzen		Rp 2.125.000
+Team Delta TUF DDR4 RGB PC21000 2666Mhz Dual Channel 32GB (2x16GB) - Black Heatspreader		Rp 2.250.000
+Team T-Force Xcalibur RGB DDR4 PC32000 Dual Channel 16GB (2x8GB)				Rp 2.290.000
+Team Delta DDR4 RGB PC24000 3000Mhz Dual Channel 32GB (2x16GB) - White Heatspreader		Rp 2.295.000
+Team Delta DDR4 RGB PC24000 3000Mhz Dual Channel 32GB (2x16GB) - Black Heatspreader		Rp 2.295.000
+Team T-Force Xcalibur RGB DDR4 PC32000 Dual Channel 16GB (2x8GB)				Rp 2.310.000
+Team T-Force Night Hawk DDR4 RGB PC32000 4000Mhz Dual Channel 16GB (2x8GB) - Black Heatspreader	Rp 2.325.000
+Team EXtreme DDR4 PC33000 4133Mhz Dual Channel 16GB (2x8GB)					Rp 2.330.000
+Team T-Force Vulcan TUF Yellow DDR4 PC25600 Dual Channel 32GB (2x16GB)				Rp 2.400.000
+Team T-Force Vulcan TUF Yellow DDR4 PC28800 Dual Channel 32GB (2x16GB)				Rp 2.625.000
+Team Delta TUF DDR4 RGB PC25600 3200Mhz Dual Channel 32GB (2x16GB) - Black Heatspreader		Rp 2.800.000
+Team T-Force Night Hawk DDR4 RGB PC25600 3200Mhz Dual Channel 32GB (2x16GB) - White HeatspreaderRp 2.800.000
+Team T-Force Night Hawk DDR4 RGB PC25600 3200Mhz Dual Channel 32GB (2x16GB) - Black HeatspreaderRp 2.800.000
+
+VenomRX
+VenomRX DDR3 PC12800 2GB									Rp 140.000
+VenomRX DDR2 PC6400 2GB										Rp 144.000
+VenomRX DDR3 PC12800 2GB With Heatsink								Rp 162.000
+VenomRX DDR3 PC12800 4GB									Rp 223.000
+VenomRX DDR3 PC12800 4GB With Heatsink								Rp 244.000
+VenomRX DDR4 PC19200 4GB									Rp 273.000
+VenomRX DDR4 PC19200 4GB With Heatsink								Rp 294.000
+VenomRX DDR3 PC12800 8GB									Rp 380.000
+VenomRX DDR3 PC12800 8GB With Heatsink								Rp 402.000
+VenomRX DDR4 PC19200 8GB									Rp 480.000
+VenomRX DDR4 PC19200 8GB With Heatsink								Rp 502.000
+
+Visipro
+Visipro DDR3 PC12800 2GB									Rp 225.000
+Visipro DDR3 PC12800 4GB									Rp 295.000
+Visipro DDR4 PC19200 4GB									Rp 370.000
+Visipro DDR3 PC12800 8GB									Rp 535.000
+Visipro DDR4 PC19200 8GB									Rp 600.000
