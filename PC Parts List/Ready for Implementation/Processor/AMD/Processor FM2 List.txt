@@ -1,1 +1,1 @@
-('AMD Richland A4-6300 (Radeon HD8370D) 3.7Ghz Cache 1MB 65W Socket FM2, 420000');
+('AMD Richland A4-6300 (Radeon HD8370D) 3.7Ghz Cache 1MB 65W Socket FM2','420000');

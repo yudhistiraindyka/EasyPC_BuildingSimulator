@@ -1,3 +1,3 @@
-('AMD Godavari A6-7480 (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+, 510000'),
-('AMD Carrizo A8-7680 (Radeon R7 Series) 3.5Ghz Cache 2MB 45W Socket FM2+, 765000'),
-('AMD Godavari A6-7470K (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+, 790000');
+('AMD Godavari A6-7480 (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+','510000'),
+('AMD Carrizo A8-7680 (Radeon R7 Series) 3.5Ghz Cache 2MB 45W Socket FM2+','765000'),
+('AMD Godavari A6-7470K (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+','790000');

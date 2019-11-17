@@ -1,7 +1,7 @@
-('Intel Core 2 Duo E6550 2.30Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775, 80000'),
-('Intel Core 2 Duo E7500 2.93Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775, 85000'),
-('Intel Core 2 Duo E6300 1.86Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775, 87000'),
-('Intel Core 2 Duo E7600 3.06Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775, 90000'),
-('Intel Core 2 Duo E8400 3.0Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775, 90000'),
-('Intel Core 2 Duo E6400 1.96Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775, 90000'),
-('Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775, 100000');
+('Intel Core 2 Duo E6550 2.30Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775','80000'),
+('Intel Core 2 Duo E7500 2.93Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775','85000'),
+('Intel Core 2 Duo E6300 1.86Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775','87000'),
+('Intel Core 2 Duo E7600 3.06Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775','90000'),
+('Intel Core 2 Duo E8400 3.0Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775','90000'),
+('Intel Core 2 Duo E6400 1.96Ghz FSB 1066 Mhz Cache 2MB [Tray] Socket LGA 775','90000'),
+('Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775','100000');
