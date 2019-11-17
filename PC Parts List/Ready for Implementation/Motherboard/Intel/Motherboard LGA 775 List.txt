@@ -1,0 +1,5 @@
+('AFOX Intel G41 (LGA775, Intel G41, DDR3)','495000'),
+('CARDEX LGA775 G41 (PCIe16x,ddr3,vga.sc.lan)','415000'),
+('Digital Alliance IG41-MA6 (LGA775, Intel G41, DDR3)','575000'),
+('VenomRX Intel G41 (LGA775, Intel G41, DDR3)','445000'),
+('Xtreme G41 (LGA775, G41, DDR3)','405000');
