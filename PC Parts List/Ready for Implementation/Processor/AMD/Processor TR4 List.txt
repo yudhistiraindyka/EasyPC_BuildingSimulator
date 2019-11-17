@@ -1,0 +1,5 @@
+('AMD Ryzen Threadripper 2920X 3.5Ghz Up To 4.3Ghz Cache 32MB 180W TR4 [Box] - 12 Core, 6150000'),
+('AMD Ryzen Threadripper 1950X 3.4Ghz Up To 4.0Ghz Cache 32MB 180W TR4 [Box] - 16 Core, 8610000'),
+('AMD Ryzen Threadripper 2950X 3.5Ghz Up To 4.4Ghz Cache 32MB 180W TR4 [Box] - 16 Core, 11725000'),
+('AMD Ryzen Threadripper 2970WX 3.0Ghz Up To 4.2Ghz Cache 64MB 180W TR4 [Box] - 24 Core, 15100000'),
+('AMD Ryzen Threadripper 2990WX 3.4Ghz Up To 4.0Ghz Cache 64MB 250W TR4 [Box] - 32 Core, 27500000');
