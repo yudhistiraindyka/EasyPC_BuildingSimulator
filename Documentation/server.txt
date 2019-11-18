@@ -1,0 +1,3 @@
+server mysql aws
+ip: 184.72.202.141
+key: server-rpl.ppk
