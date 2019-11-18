@@ -20,6 +20,7 @@
 <hr/>
 </head>
 <body bgcolor ="cyan">
+
 <select>
 <option> --Select Processor-- </option>
 <?php
@@ -33,7 +34,8 @@
 		}
 				
 ?>
-
+</select>
+<button>Submit</button>
 </center>
 </body>
 </html>
