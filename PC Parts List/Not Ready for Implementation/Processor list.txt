@@ -171,7 +171,7 @@ Intel Xeon E5-2609v4, 1.7Ghz, Cache 20MB, LGA2011-v3							Rp 5.000.000
 Intel Xeon E5-2620v4, 2.4Ghz, Cache 15MB, LGA2011-v3							Rp 6.790.000
 Intel Xeon E5-2630v4, 2.4Ghz, Cache 20MB, LGA2011-v3							Rp 10.780.000
 
-Intel Xeon LGA3648
+Intel Xeon LGA3647
 Intel Xeon BRONZE 3104, 1.70Ghz, Cache 8.25 MB, LGA 3647						Rp 3.670.000
 Intel Xeon BRONZE 3106, 1.70Ghz, Cache 11MB, LGA 3647							Rp 5.190.000
 Intel Xeon SILVER 4108, 1.80Ghz Up To 3.0Ghz, Cache 11MB, LGA 3647					Rp 7.000.000
