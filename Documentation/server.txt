@@ -1,3 +1,6 @@
 server mysql aws
 ip: 184.72.202.141
 key: server-rpl.ppk
+cara masuk ke command mysql:
+/usr/bin/mysql -u root -p
+password:ezpz (semua password)
