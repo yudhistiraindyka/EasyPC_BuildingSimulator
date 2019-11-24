@@ -3,8 +3,8 @@
 	$username="root";
 	$dbname="easypc";
 	$password="";
-	$usrtable="ram";
-	$columnname="ram_name";
+	$usrtable="vga";
+	$columnname="vga_name";
 	$columnname2="price";
 	
 	$con=mysqli_connect($hostname, $username, $password) OR die ("Unable to connect to database");
@@ -17,13 +17,13 @@
 <head>
 <center>
 <h1 color="white"> EASY PC </h1>
-<h2 color="white"> Select RAM </h2>
+<h2 color="white"> Select VGA </h2>
 <hr/>
 </head>
 <body bgcolor ="cyan">
 
 <select>
-<option> --Select RAM-- </option>
+<option> --Select VGA-- </option>
 <?php
 		if($result)
 		{

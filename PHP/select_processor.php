@@ -5,10 +5,11 @@
 	$password="";
 	$usrtable="am4_proc";
 	$columnname="part_name";
+	$columnname2="price";
 	
 	$con=mysqli_connect($hostname, $username, $password) OR die ("Unable to connect to database");
 	$link=mysqli_select_db($con,$dbname);
-	$query="select $columnname from $usrtable";
+	$query="select concat($columnname,'-----Rp',$columnname2) from $usrtable";
 	$result=mysqli_query($con,$query);
 ?>
 
@@ -28,7 +29,7 @@
 		{
 			while($row=mysqli_fetch_array($result))
 			{
-				$partname=$row["$columnname"];
+				$partname=$row["$columnname"+"columnname2"];
 				echo"<option>$partname<br></option>";
 			}
 		}
