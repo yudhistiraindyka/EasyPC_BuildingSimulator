@@ -4,8 +4,8 @@ PC Building Simulator built using Progressive Web App. This project is a require
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
-3. [Source Code](github.com/yudhistiraindyka/EasyPC_BuildingSimulator/php)
-4. [Screenshots](github.com/yudhistiraindyka/EasyPC_BuildingSimulator/documentation)
+3. [Source Code](http://github.com/yudhistiraindyka/EasyPC_BuildingSimulator/php)
+4. [Screenshots](http://github.com/yudhistiraindyka/EasyPC_BuildingSimulator/documentation)
 
 ### <a id="Introduction"></a>Introduction ###
 There are people out there who want to build their own pc while having minimal knowledge about PC parts. We aim to aid those with our project. 
