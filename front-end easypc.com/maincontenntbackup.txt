@@ -1,0 +1,30 @@
+class MainContent extends React.Component {
+    constructor () {
+        super()
+        this.state = {
+            CPUManufacture : "Select CPU Manufacture"
+        }
+        this.handleChange=this.handleChange.bind(this)
+    }
+
+    handleChange(event) {
+        const {name, value, type, checked} = event.target
+        type === "checkbox" ? this.setState({ [name] : checked}) : this.setState({ [name]: value})
+    }
+
+    render() {
+        return(
+            <form>
+                <label>Select CPU Manufacture</label>
+                <select 
+                value={this.state.CPUManufacture} 
+                onChange={this.handleChange}
+                name="CPUManufacture"
+                >
+                    <option value="Intel">Intel</option>
+                    <option value="AMD">AMD</option>
+                </select>
+            </form>
+        )
+    }
+}
