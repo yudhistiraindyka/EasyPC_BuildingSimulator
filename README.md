@@ -11,7 +11,7 @@ PC Building Simulator built using Progressive Web App. This project is a require
 There are people out there who want to build their own pc while having minimal knowledge about PC parts. We aim to aid those people with our project. 
 Our main features are Preset Build, Compatibilities and Price Estimation.
 
-#### <a id="Technologies"></a>Technologies ###
+### <a id="Technologies"></a>Technologies ###
 * PHP 7.2.25
 * React.js 16.12.0
 * MySQL 8.0.18
