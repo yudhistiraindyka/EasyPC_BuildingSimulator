@@ -2,8 +2,8 @@
 PC Building Simulator built using Progressive Web App. This project is a requirement to pass Software Engineering class. 
 
 ## Table of Contents
-1. [Introduction](###Introduction)
-2. [Technologies](####Technologies)
+1. [Introduction](#introduction)
+2. [Technologies](#technologies)
 3. [Source Code](github.com/yudhistiraindyka/EasyPC_BuildingSimulator/php)
 4. [Screenshots](github.com/yudhistiraindyka/EasyPC_BuildingSimulator/documentation)
 
