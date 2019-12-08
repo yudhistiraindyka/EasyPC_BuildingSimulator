@@ -12,7 +12,8 @@ There are people out there who want to build their own pc while having minimal k
 Our main features are Preset Build, Compatibilities and Price Estimation.
 
 ### <a id="Technologies"></a>Technologies ###
-* PHP 7.2.25
+* PHP 5
+* PHPmyAdmin 4.8,5
 * React.js 16.12.0
 * MySQL 8.0.18
 * XAMPP 7.1.33
@@ -20,3 +21,4 @@ Our main features are Preset Build, Compatibilities and Price Estimation.
 * PWA
 * HTML5
 * VisualStudio code
+* Notepad++
